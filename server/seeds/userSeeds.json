@@ -1,0 +1,44 @@
+[
+  {
+    "username": "John Doe",
+    "email": "johndoe@example.com",
+    "password": "password123",
+    "zipcode": 12345,
+    "favorites": ["Labrador Retriever", "Beagle"]
+  },
+  {
+    "username": "Jane Smith",
+    "email": "janesmith@example.com",
+    "password": "secret456",
+    "zipcode": 67890,
+    "favorites": ["German Shepherd", "Poodle"]
+  },
+  {
+    "username": "Alex Johnson",
+    "email": "alexjohnson@example.com",
+    "password": "qwerty789",
+    "zipcode": 54321,
+    "favorites": ["Golden Retriever", "Husky"]
+  },
+  {
+    "username": "Emily Davis",
+    "email": "emilydavis@example.com",
+    "password": "letmein123",
+    "zipcode": 98765,
+    "favorites": ["French Bulldog", "Shih Tzu"]
+  },
+  {
+    "username": "Michael Wilson",
+    "email": "michaelwilson@example.com",
+    "password": "pa55word",
+    "zipcode": 13579,
+    "favorites": ["Bulldog", "Dalmatian"]
+  },
+  {
+    "username": "Sarah Miller",
+    "email": "sarah@gmail.com",
+    "password": "password",
+    "zipcode": 12345,
+    "favorites": ["Labrador Retriever", "Beagle"]
+  }
+]

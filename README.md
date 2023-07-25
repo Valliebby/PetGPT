@@ -1,2 +1,0 @@
-# PerGPT
-PetGPT
